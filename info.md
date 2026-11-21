@@ -28,9 +28,9 @@ Rijwanul is a Bangladesh-based administrator, facilitator, trainer, event host a
 | Blog | https://blog.rijwanul.com/ |
 | This file (agent summary) | https://git.rijwanul.com/info.md |
 | Email | contact@rijwanul.com |
-| Contact form | https://forms.gle/b8EqcTnyPQ4s3swP7 |
+| Contact form | https://rijwa.nl/contact |
 | WhatsApp (via short link) | https://rijwa.nl/whatsapp |
-| Anonymous feedback form | https://docs.google.com/forms/d/e/1FAIpQLSeCVuWRNU2F4_mbHCcRtjHgHjMWHbMpMBaBkH2Eek8hHGMGwg/viewform |
+| Anonymous feedback form | https://rijwa.nl/feedback |
 | GitHub | https://github.com/rijwanul |
 | YouTube | https://www.youtube.com/@rijwanul |
 | Facebook | https://facebook.com/rijwanulbd |
@@ -116,7 +116,7 @@ Figures as stated on the site:
   - Session slide: https://docs.google.com/presentation/d/1bT8F1FlgaoiL5E2-95wJpkef3B6v-21sXAB4RzciBuw/edit?usp=sharing
   - Other linked resources: CallMeBot Telegram API, SMS Character Count, BDBulkSMS.com, BulkSMSBD.com
 
-**To book him for a session or hosting:** https://forms.gle/b8EqcTnyPQ4s3swP7 or contact@rijwanul.com
+**To book him for a session or hosting:** https://rijwa.nl/contact or contact@rijwanul.com
 
 ---
 

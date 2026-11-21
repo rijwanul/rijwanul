@@ -1,9 +1,10 @@
 <div align="center">
 
+<a href="https://quran.com/en/an-nahl/53"><img src="img/1653.png" alt="Surah An-Nahl, verse 53 (Quran 16:53)"></a>
+
 # Assalamualaikum, I'm Rijwanul Hoque 👋
 
 **Director of Admin & HR at YSSE · Former Leadership Facilitator at BYLC**
-Google Workspace automation · Chatbots · Training & event hosting · Bangladesh 🇧🇩
 
 [![Website](https://img.shields.io/badge/Website-rijwanul.com-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://rijwanul.com)
 [![Blog](https://img.shields.io/badge/Blog-blog.rijwanul.com-ff5722?style=for-the-badge&logo=blogger&logoColor=white)](https://blog.rijwanul.com)
@@ -11,7 +12,6 @@ Google Workspace automation · Chatbots · Training & event hosting · Banglades
 
 [![YouTube](https://img.shields.io/badge/YouTube-@rijwanul-ff0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@rijwanul)
 [![Facebook](https://img.shields.io/badge/Facebook-rijwanulbd-1877f2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/rijwanulbd)
-[![GitHub followers](https://img.shields.io/github/followers/rijwanul?style=flat-square&logo=github&label=Followers)](https://github.com/rijwanul?tab=followers)
 
 ![Profile views](https://komarev.com/ghpvc/?username=rijwanul&label=Profile+views&color=0e75b6&style=flat-square)
 
@@ -21,11 +21,11 @@ Google Workspace automation · Chatbots · Training & event hosting · Banglades
 
 ## 🧭 About me
 
-- 🏢 Serving as **Director of Admin & HR** at [YSSE](https://ysseglobal.org/) since Nov 2022, supporting skill development for **2,000+ individuals**.
-- 🎓 Former **Leadership Facilitator** at [BYLC](https://bylc.org/) across five hybrid national programs (47 youths directly, 317 overall).
-- 🤖 Designed an early **Bengali-language chatbot course** and mentored **300+ marketers**.
-- 🎤 Emceed 3+ offline events, hosted 5+ online live shows, and conducted sessions on Google Workspace, Google Forms, AI basics and more (about 1,800 combined attendances).
-- 🌐 My primary home on the web is **[rijwanul.com](https://rijwanul.com)**. My LinkedIn is only a placeholder ([why?](https://rijwanul.com/others/why-inactive-on-linkedin)).
+- 🏢 Alhamdulillah, serving as Director of Admin & HR at [YSSE](https://ysseglobal.org/) since Nov 2022, where I get to support skill development programs.
+- 🎓 Was granted the opportunity to serve as a Leadership Facilitator at [BYLC](https://bylc.org/) in five hybrid national programs.
+- 🤖 Had the chance to design a Bengali-language chatbot course and mentor marketers learning chatbot development.
+- 🎤 Blessed with opportunities to host events and conduct sessions on Google Workspace, Google Forms, AI basics and more.
+- 🌐 My home on the web is [rijwanul.com](https://rijwanul.com). My LinkedIn is only a placeholder ([why?](https://rijwanul.com/others/why-inactive-on-linkedin)).
 
 ## 🛠️ Tools & Tech
 
@@ -58,15 +58,15 @@ Also: Pabbly Connect, Chatrace, Chatfuel, Manychat, Callyzer.
 
 ➡️ [All posts](https://blog.rijwanul.com)
 
-## 📬 Work with me
+## 📬 Get in touch
 
-Session, hosting or speaking requests: [contact form](https://forms.gle/b8EqcTnyPQ4s3swP7) or contact@rijwanul.com.
+Session, hosting or speaking requests: [contact form](https://rijwa.nl/contact) or contact@rijwanul.com.
 Workflow automation, chatbots and Google Workspace automation: [WhatsApp](https://rijwa.nl/whatsapp).
-Anonymous feedback: [feedback form](https://docs.google.com/forms/d/e/1FAIpQLSeCVuWRNU2F4_mbHCcRtjHgHjMWHbMpMBaBkH2Eek8hHGMGwg/viewform).
+Anonymous feedback: [feedback form](https://rijwa.nl/feedback).
 
 ## 🤖 For AI agents
 
-A plain-text, structured summary of everything about me is in **[info.md](info.md)**, also served at **https://git.rijwanul.com/info.md**.
+A plain-text summary of my website and blog is in **[info.md](info.md)**, also served at **https://git.rijwanul.com/info.md**.
 It is a static snapshot, so for the latest information visit **https://rijwanul.com**.
 
 ---
