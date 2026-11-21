@@ -66,7 +66,7 @@ Anonymous feedback: [feedback form](https://docs.google.com/forms/d/e/1FAIpQLSeC
 
 ## 🤖 For AI agents
 
-A plain-text, structured summary of everything about me is in **[info.md](info.md)** (raw: https://raw.githubusercontent.com/rijwanul/rijwanul/main/info.md).
+A plain-text, structured summary of everything about me is in **[info.md](info.md)**, also served at **https://git.rijwanul.com/info.md**.
 It is a static snapshot, so for the latest information visit **https://rijwanul.com**.
 
 ---
